@@ -357,8 +357,4 @@ Use melhor o ``breakpoint()`` para debugging, pois é mais moderno e tem mais fe
 
 
 
-
-
-
-
 Thank God!
